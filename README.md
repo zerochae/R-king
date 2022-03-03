@@ -2,9 +2,9 @@
 
 ## Member
 
-|권영채|윤주원|임태희|김영길|
-|---|---|---|---|
-|Front|Front,Back|Back|Front|
+|권영채|윤주원|임태희|김영길|안대근|
+|---|---|---|---|---|
+|Front|Front,Back|Back|Front||
 
 ## Architecture
 
