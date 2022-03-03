@@ -16,7 +16,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "carco start",
+    "start": "craco start",
     "build": "carco build",
     "test": "carco test",
     "eject": "carco eject"

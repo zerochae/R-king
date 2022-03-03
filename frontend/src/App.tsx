@@ -4,7 +4,9 @@ const App = () => {
   return (
     <>
       <GlobalStyle />
-      <div className="App"></div>;
+      <div className="App">
+        asdf
+      </div>
     </>
   );
 };
