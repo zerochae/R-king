@@ -4,7 +4,7 @@
 
 |권영채|윤주원|임태희|김영길|안대근|
 |---|---|---|---|---|
-|Front|Front,Back|Back|Front||
+|Front|Front,Back|Back|Front|Back|
 
 ## Architecture
 
