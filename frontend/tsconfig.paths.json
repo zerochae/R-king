@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "Constants/*": ["./src/Const/*"],
+      "Components/*": ["./src/Components/*"],
+      "Utils/*": ["./src/Utils/*"],
+      "Style/*": ["./src/Style/*"],
+      "Types/*": ["./src/Types/*"]
+    }
+  }
+}
